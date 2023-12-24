@@ -17,6 +17,8 @@
     git clone https://github.com/francotel/static-website-s3-tf.git
     cd static-website-s3-tf
     ```
+2. **Diagram:**
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ## Advantages of Amazon S3 📦
 
