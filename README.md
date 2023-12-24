@@ -19,7 +19,7 @@
     ```
 2. **Diagram:**
 
-    ![Diagram aws](https://media.licdn.com/dms/image/D5612AQGxq3V27-vx9g/article-inline_image-shrink_1000_1488/0/1703285810199?e=1709164800&v=beta&t=9grKLAMhmr1JhxRXpIqx3g5rbtDSEsP8f74LRNEC7IQ)
+    ![Diagram aws](https://media.licdn.com/dms/image/D5612AQGXTyL5OFhElw/article-inline_image-shrink_1000_1488/0/1703454212077?e=1709164800&v=beta&t=90OuEKIVy0PQsDiv3mctj4ClQVGyKeezQJJeKzLtl5U)
 
 ## Advantages of Amazon S3 📦
 
