@@ -18,7 +18,8 @@
     cd static-website-s3-tf
     ```
 2. **Diagram:**
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+    ![Diagram aws](https://media.licdn.com/dms/image/D5612AQGxq3V27-vx9g/article-inline_image-shrink_1000_1488/0/1703285810199?e=1709164800&v=beta&t=9grKLAMhmr1JhxRXpIqx3g5rbtDSEsP8f74LRNEC7IQ)
 
 ## Advantages of Amazon S3 📦
 
@@ -84,6 +85,8 @@ jobs:
       - name: Terraform Apply
         run: terraform apply tfplan -auto-approve
 ```
+
+  ![web deploy](https://media.licdn.com/dms/image/D5612AQFbKGMRMsahPQ/article-inline_image-shrink_1500_2232/0/1703285113281?e=1709164800&v=beta&t=QE4hBSEo0O4W2W_w_YbDzl7hCr4t8R267OvdMc81TYM)
 
 ## Contributions 🤝
 
