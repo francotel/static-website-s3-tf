@@ -1,5 +1,4 @@
 provider "aws" {
-  profile = "scc-aws"
   region  = "us-east-1"
 
   default_tags {
