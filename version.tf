@@ -11,7 +11,8 @@ terraform {
       version = "3.6.0"
     }
   }
-
+  backend "s3" {}
+  
   # backend "s3" {
   #   bucket         = ""
   #   dynamodb_table = ""

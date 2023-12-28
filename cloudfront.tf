@@ -1,5 +1,5 @@
 data "aws_cloudfront_cache_policy" "cache-optimized" {
-  name = "Managed-CachingDisabled" # "Managed-CachingOptimized"
+  name = "Managed-CachingOptimized"  # "Managed-CachingOptimized"
 }
 
 resource "aws_cloudfront_origin_access_control" "cloudfront-oac" {

@@ -50,7 +50,7 @@ data "aws_iam_policy_document" "bucket_policy" {
       test     = "StringEquals"
       variable = "AWS:SourceArn"
 
-      values = ["arn:aws:cloudfront::962542038213:distribution/E2WPDO76LRRBQT"]
+      values = [aws_cloudfront_distribution.main.arn]
     }
   }
 }
